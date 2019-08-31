@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Pico Benchmark Plugin
- * Pico動作開始時から終了時までの時間を計測し、表示するプラグイン
+ * Pico Timestamp Plugin
+ * ファイルのタイムスタンプを表示するプラグイン
  *
  * @author  Takami Chie
  * @link    http://onpu-tamago.net/
