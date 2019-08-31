@@ -7,10 +7,12 @@
  * @author  Takami Chie
  * @link    http://onpu-tamago.net/
  * @license http://opensource.org/licenses/MIT The MIT License
- * @version 1.0
+ * @version 1.1
  */
 final class Pico_Timestamp extends AbstractPicoPlugin
 {
+  const API_VERSION = 2;
+
   protected $enabled = false;
 
   private $content_dir;
